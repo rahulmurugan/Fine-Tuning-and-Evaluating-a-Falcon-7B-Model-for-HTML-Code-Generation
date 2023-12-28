@@ -1,7 +1,7 @@
-![Logo](https://figr.design/assets/footer-9e702341.svg)
 
 
-# Fine-Tuning and Evaluating a Falcon 7B for HTML Code Generation - ML Intern assignment for Figr
+
+# Fine-Tuning and Evaluating a Falcon 7B for HTML Code Generation - 
 ### OBJECTIVE
 Fine-tune the above model or any other  open-source language model of your choice to generate HTML code from given natural language prompts. This assignment focuses on demonstrating your skills in model fine-tuning, handling potential challenges, and basic API development.
 
